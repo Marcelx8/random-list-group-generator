@@ -1,5 +1,6 @@
 console.log(':: Random List Group Generator ::');
 // console.log();
+//
 
 let people = [{
         name: 'Marcel',
