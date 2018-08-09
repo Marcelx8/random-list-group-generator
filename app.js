@@ -1,0 +1,1 @@
+console.log(':: Random List Group Generator ::');
